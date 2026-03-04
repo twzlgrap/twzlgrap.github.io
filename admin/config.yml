@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: twzlgrap/twzlgrap.github.io
-  branch: main
+  branch: master
   client_id: yIv23litZMSSyQwN8X9n4
 
 media_folder: assets/uploads
