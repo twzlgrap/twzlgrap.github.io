@@ -302,10 +302,10 @@ plugins:
   - jekyll-feed
 
   backend:
-    name: github
-    repo: twzlgrap/twzlgrap.github.io
-    branch: main
-    client_id: yIv23litZMSSyQwN8X9n4
+   - name: github
+   - repo: twzlgrap/twzlgrap.github.io
+   - branch: main
+   - client_id: yIv23litZMSSyQwN8X9n4
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
