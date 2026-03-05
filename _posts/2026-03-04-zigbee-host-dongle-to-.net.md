@@ -2,12 +2,9 @@
 title: Zigbee host dongle to .NET
 date: 2026-03-04T17:52:00
 ---
+*Basic install of a Zigbee dongle, and then makign the interface available to a .Net application
 
-ca
-
- Here's the straightforward path:
-
-**The stack you want**
+**The target stack**
 
 ```plain
 Zigbee dongle → Zigbee2MQTT → MQTT broker (Mosquitto) → your .NET 8 app
